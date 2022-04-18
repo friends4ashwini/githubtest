@@ -12,7 +12,7 @@ import android.view.MenuItem
 import com.example.mytestappforgithub.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
-
+// Just adding a comment for test Commit
     private lateinit var appBarConfiguration: AppBarConfiguration
     private lateinit var binding: ActivityMainBinding
 
